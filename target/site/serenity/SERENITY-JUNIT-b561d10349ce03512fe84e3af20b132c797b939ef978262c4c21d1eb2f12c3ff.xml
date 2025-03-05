@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Bloqueo de inicio de sesión" skipped="0" tests="1" time="24.27" timestamp="2025-03-04 07:17:50"><testcase name="El usuario intenta iniciar sesión con credenciales invalidas"/></testsuite>
